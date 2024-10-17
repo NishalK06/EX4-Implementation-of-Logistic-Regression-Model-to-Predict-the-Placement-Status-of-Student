@@ -86,7 +86,7 @@ print("\nClassification_Report:\n",cr)
 ![image](https://github.com/user-attachments/assets/ce5ac991-7ad1-4392-a66a-a09e6e098a6a)
 ![image](https://github.com/user-attachments/assets/1439e2cf-faa0-44de-a7d1-d9d2b4d5688f)
 ![image](https://github.com/user-attachments/assets/72179725-b853-49b6-839f-4ee23068e84d)
-![image](https://github.com/user-attachments/assets/ed89bfa8-c219-4c62-9900-20bfdef62c76)
+![image](https://github.com/user-attachments/assets/ed89bfa8-c219-4c62-9900-20bfdef62c76)<p>
 ![image](https://github.com/user-attachments/assets/cf61cfbf-458d-4035-9109-07f8171cfcfc)
 ![image](https://github.com/user-attachments/assets/e7e4a3e3-2682-429a-82a7-625eb3cbe141)
 ![image](https://github.com/user-attachments/assets/ed3de07b-c41b-4509-b082-288777bf25c9)
